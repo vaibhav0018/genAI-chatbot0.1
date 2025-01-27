@@ -1,0 +1,21 @@
+# Include all static files
+recursive-include app/static *
+recursive-include app/templates *
+
+# Include the requirements file
+include requirements.txt
+
+# Include the .env file template (if you have one)
+include .env.example
+
+# Include documentation files if you have any
+include README.md
+include LICENSE
+
+# Exclude any development or temporary files
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude __pycache__
+global-exclude *.so
+global-exclude .git*
+global-exclude .env
