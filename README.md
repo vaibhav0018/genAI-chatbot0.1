@@ -1,3 +1,4 @@
+![Screenshot from 2025-02-05 14-35-52](https://github.com/user-attachments/assets/2234fdc0-2ae7-46ad-8c2a-145d14ef8586)
 ## 🚀 Key Features
 
 - **Real-time Google Sheets Sync**: Automatic data fetching from Google Sheets
