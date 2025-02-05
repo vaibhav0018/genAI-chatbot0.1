@@ -134,7 +134,7 @@ Monitor these metrics for optimal performance:
 
 ### Development
 ```bash
-flask run --debug
+python3 run.py --debug
 ```
 
 ### Production
@@ -157,7 +157,7 @@ pytest --cov=app tests/
 The application includes built-in monitoring for:
 - Background task execution
 - API response times
-- Google Sheets API usage
+- Google Sheets link and GID
 - Error rates and types
 
 ## 🔒 Security Features
@@ -166,11 +166,6 @@ The application includes built-in monitoring for:
 - CSRF protection
 - Rate limiting
 - Secure headers configuration
-
-
-## 📝 API Documentation
-
-[Link to detailed API documentation - if available]
 
 ## 📜 License
 
