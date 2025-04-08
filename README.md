@@ -174,6 +174,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Support
 
 - Email: patilvaibhav0018@gmail.com
-
----
-⭐️ If this project helps you, don't forget to give it a star!
